@@ -1,0 +1,38 @@
+entregar dia 20/7
+
+
+
+
+
+
+18/7
+criar ponte com banco de dados e armazenar cada cadastro
+se clicar em cadastro e algum campo não estiver preenchido deve aparecer um aviso em vermelho "preencha x campo" ou "x campo incorreto"
+se clicar em cadastro e todas os campos estiverem corretamente preenchidos deve cadastrar tudo no banco de dados
+ao cadastrar no banco de dados deve carregar uma tela por 5 segundos com animação
+ao passar 5 segundos deve abrir a tela de produtos(por enquanto é a tela que abre quando clica em login) do mercado com um dizer na parte de cima por 3 segundos "conta criada com sucesso"
+
+19/7
+na tela login quando clicar em "login" deve se procurar o login nos cadastros do banco de dados
+se a procura for bem sucedida deve abrir a tela de produtos, se não deve aparecer um aviso a abaixo da senha em vermelho dizendo "Conta não encontrada".
+criação da tela de produtos
+criar a tela com 6 produtos
+cada produto vai ter uma "caixa" dentro da tela
+
+20/7
+com nome do produto; abaixo imagem; abaixo grande preço; se tiver desconto mostrar quanto de desconto abaixo do preço -> OLHAR APP LENZ
+no topo da tela botar a logo do mercado e essa logo fica fixa conforme a tela vai para baixo
+na parte superior direita vai ter uma imagem de "pessoa" representando o perfil do usuário
+quando clica aparece uma sub tela para baixo com as seguintes informações:
+se estiver logado: 
+nome completo da pessoa
+botão "meus dados" abrir tela para configurar todas as informações com botão atualizar e voltar -> atualizar banco de dados
+botão "banco" para ganhar créditos futuros de economia de compra e mensalidades -> por enquanto uma tela com "EM MANUTENÇÃO" com botão voltar
+botão suporte mandar e-mail para wellihorn616@gmail.com abrir tela com mensagem e assunto e meu e-mail com botão enviar e voltar
+sair do login volta para a página de login antes abre uma caixa de confirmação de saída.
+se não estiver logado:
+escrito "USUÁRIO" ao invés do nome completo
+botão de login enviado para a página de login
+botão de cadastrar enviado para a página de cadastrar
+fazer da tela principal a tela de produtos
+na tela de login criar um botão voltar para ir para a tela de login
